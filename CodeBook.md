@@ -1,10 +1,7 @@
----
-title: "CODE BOOK"
-subtitle: "Human Activity Recognition Using Smartphones"
-author: "Saad Mahmood"
+# CODE BOOK
+## Human Activity Recognition Using Smartphones
+#### Saad Mahmood
 
-output: html_document
----
 The purpose of this document is to describe all variables, data, and transformations made in order to get the final tidy data set found in this repository.
 
 ## Introduction
