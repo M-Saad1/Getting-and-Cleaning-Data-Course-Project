@@ -1,7 +1,6 @@
----
-title: "Getting and Cleaning Data Course Project"
-output: html_document
----
+
+# "Getting and Cleaning Data Course Project"
+
 
 ## About this repository
 This repository contains my submission for the final course project in the Getting and Cleaning Data course (course #3 in the Johns Hopkins Data Science specialization).
@@ -27,7 +26,7 @@ The assignment was to create one R script that does the following:
 ## Files in this repository
 
 ### ```README.MD``` 
-* This file that you are reading
+* This is the current file that you are reading
 
 ### ```run_analysis.R```
 * R script that transforms the data from the "UCI HAR Dataset" folder into the final tidy data. 
